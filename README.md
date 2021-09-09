@@ -3,7 +3,7 @@
 Program takes in a credit card number and checks for its validity.
 The program checks for both pattern correctnes and the luhn's algorithm.
 
-Following checks are made:
+Following checks are made: \n
 ► It must start with a 4,5 or 6.
 ► It must contain exactly 16 digits.
 ► It must only consist of digits (0 -9 ).
